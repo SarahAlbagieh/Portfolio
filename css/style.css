@@ -1,0 +1,36 @@
+.custom {
+max-width: 70%;
+font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.header {
+    border-bottom: 3px solid #7d97ad;
+    margin-bottom: 5%;
+
+}
+
+.main-title {
+    font-weight: 100;
+    font-size: 400%;
+    text-align: right;
+    vertical-align: text-bottom;
+    margin-bottom: 0px;
+
+}
+
+.description {
+    font-size: 200%;
+    text-align: right;
+
+}
+
+.sub-title {
+color: #7d97ad;
+font-size: 300%;
+}
+
+.logo {
+  font-size: 80px;
+  color: #02b3e4;
+}
